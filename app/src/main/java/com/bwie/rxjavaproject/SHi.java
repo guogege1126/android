@@ -9,4 +9,7 @@ package com.bwie.rxjavaproject;
 
 public class SHi {
     String name="WuXiaoFang";
+    String name2="WuXiaoFang";
+    String name3="WuXiaoFang";
+    String name4="WuXiaoFang";
 }
